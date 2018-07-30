@@ -13,7 +13,10 @@ You can create your views with shadow and radius!
 ![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/3.png)
 
 # 4 Configurate params
-![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/2.png)
+![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/4.png)
 
 # 5 Change gradiant color
-![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/2.png)
+![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/5.png)
+
+# 6 Great!
+![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/6.png)
