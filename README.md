@@ -3,17 +3,17 @@
 
 You can create your views with shadow and radius!
 
-# 1
+# 1 Create view
 ![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/1.png)
 
-# 2
+# 2 Instance View
 ![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/2.png)
 
-# 3
+# 3 Install constraints
 ![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/3.png)
 
-# 4
+# 4 Configurate params
 ![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/2.png)
 
-# 5
+# 5 Change gradiant color
 ![First](https://github.com/victormanuelfrancodev/ShadowUIView/blob/master/2.png)
