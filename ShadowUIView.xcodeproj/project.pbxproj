@@ -14,6 +14,8 @@
 		530E2117210E725300CB1BC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 530E2115210E725300CB1BC9 /* LaunchScreen.storyboard */; };
 		530E2122210E725300CB1BC9 /* ShadowUIViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530E2121210E725300CB1BC9 /* ShadowUIViewTests.swift */; };
 		530E212D210E725300CB1BC9 /* ShadowUIViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530E212C210E725300CB1BC9 /* ShadowUIViewUITests.swift */; };
+		530E213D210E72AD00CB1BC9 /* ShadowRectUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530E213C210E72AD00CB1BC9 /* ShadowRectUIView.swift */; };
+		530E2147210EBD2500CB1BC9 /* ShadowUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530E2146210EBD2400CB1BC9 /* ShadowUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		530E2128210E725300CB1BC9 /* ShadowUIViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShadowUIViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		530E212C210E725300CB1BC9 /* ShadowUIViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowUIViewUITests.swift; sourceTree = "<group>"; };
 		530E212E210E725300CB1BC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		530E213C210E72AD00CB1BC9 /* ShadowRectUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowRectUIView.swift; sourceTree = "<group>"; };
+		530E2146210EBD2400CB1BC9 /* ShadowUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShadowUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				530E2113210E725300CB1BC9 /* Assets.xcassets */,
 				530E2115210E725300CB1BC9 /* LaunchScreen.storyboard */,
 				530E2118210E725300CB1BC9 /* Info.plist */,
+				530E2146210EBD2400CB1BC9 /* ShadowUIView.swift */,
+				530E213C210E72AD00CB1BC9 /* ShadowRectUIView.swift */,
 			);
 			path = ShadowUIView;
 			sourceTree = "<group>";
@@ -256,7 +262,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				530E2147210EBD2500CB1BC9 /* ShadowUIView.swift in Sources */,
 				530E210F210E725000CB1BC9 /* ViewController.swift in Sources */,
+				530E213D210E72AD00CB1BC9 /* ShadowRectUIView.swift in Sources */,
 				530E210D210E725000CB1BC9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
